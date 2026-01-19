@@ -1,0 +1,22 @@
+{
+  "name": "kbv2-google-ai-studio",
+  "version": "1.0.0",
+  "description": "KBV Lyon - Comprehensive event management application built with Google AI Studio",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Application runs in Google AI Studio',
+    "test": "echo 'Run tests'",
+    "build": "echo 'Build application'"
+  },
+  "keywords": [
+    "event-management",
+    "google-ai-studio",
+    "speakers",
+    "scheduling",
+    "accommodations"
+  ],
+  "author": "pinto1230766",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
